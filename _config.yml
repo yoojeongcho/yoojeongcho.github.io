@@ -12,11 +12,8 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 #remote_theme           : "mmistakes/minimal-mistakes"
-# 다른 설정...
+#minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# 다른 설정...
 
 
 # Site Settings
